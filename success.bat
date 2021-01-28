@@ -1,2 +1,2 @@
-python "C:\Users\lenovo\Desktop\qq\qqautosent.py"
+python "C:\Users\lenovo\Desktop\qq\main\qqautosent.py"
 pause
