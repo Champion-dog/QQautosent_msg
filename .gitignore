@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+/craft.py
+/qqsent.py
 __pycache__/
 *.py[cod]
 *$py.class
