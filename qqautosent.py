@@ -62,8 +62,8 @@ class QqAutoSent(object):
 
 if __name__ == '__main__':
     pic_file = r'C:\Users\lenovo\Desktop\temper.jpg'
-    msg = '36.7'
-    who = "李伟韬"
+    msg = 'hello world'
+    who = "王二狗"
 
     pic = QqAutoSent(who, None, pic_file, "picture")            # 实例化发送图片的类
     text = QqAutoSent(who, msg, pic_file, "text")               # 实例化发送文本的类
